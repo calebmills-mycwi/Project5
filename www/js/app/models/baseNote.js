@@ -142,7 +142,7 @@ define( [ "yasmf" ], function( _y ) {
 	
 	
 	/* Added status get/set functions */
-	self._status = "New";
+	self._status = "";
     self.getStatus = function() {
       return self._status;
     };

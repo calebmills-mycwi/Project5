@@ -1080,6 +1080,14 @@ div {
   -o-mask-image: url("./yasmf-assets/page-text-new@2x.png");
   mask-image: url("./yasmf-assets/page-text-new@2x.png"); }
 
+ .ui-glyph-pin {
+  -webkit-mask-image: url("./yasmf-assets/followup.png");
+  -moz-mask-image: url("./yasmf-assets/followup.png");
+  -ms-mask-image: url("./yasmf-assets/followup.png");
+  -o-mask-image: url("./yasmf-assets/followup.png");
+  mask-image: url("./yasmf-assets/followup.png"); }
+ }
+  
 .ui-glyph-pencil {
   -webkit-mask-image: url("./yasmf-assets/pencil@2x.png");
   -moz-mask-image: url("./yasmf-assets/pencil@2x.png");

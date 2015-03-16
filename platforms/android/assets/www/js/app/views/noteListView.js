@@ -171,7 +171,9 @@ define( [ "yasmf", "app/models/noteStorageSingleton", "text!html/noteListView.ht
       self._scrollContainer = self.element.querySelector( ".ui-scroll-container" );
       self._listOfNotes = self.element.querySelector( ".ui-list" );
       self._newTextNoteButton = self.element.querySelector(
-        ".ui-bar-button.ui-glyph-page-text-new" );
+        ".ui-bar-button.ui-glyph-page-text-new" ); 
+		
+	  
       self._newAudioNoteButton = self.element.querySelector(
         ".ui-bar-button.ui-glyph-sound-wave" );
       self._newImageNoteButton = self.element.querySelector(

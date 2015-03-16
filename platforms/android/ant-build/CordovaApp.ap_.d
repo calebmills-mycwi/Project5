@@ -108,6 +108,7 @@ C:\Sandbox\webd265\Project4\platforms\android\assets\www\js\lib\yasmf-assets\clo
 C:\Sandbox\webd265\Project4\platforms\android\assets\www\js\lib\yasmf-assets\delete@2x.png \
 C:\Sandbox\webd265\Project4\platforms\android\assets\www\js\lib\yasmf-assets\download@2x.png \
 C:\Sandbox\webd265\Project4\platforms\android\assets\www\js\lib\yasmf-assets\film@2x.png \
+C:\Sandbox\webd265\Project4\platforms\android\assets\www\js\lib\yasmf-assets\followup.png \
 C:\Sandbox\webd265\Project4\platforms\android\assets\www\js\lib\yasmf-assets\gear@2x.png \
 C:\Sandbox\webd265\Project4\platforms\android\assets\www\js\lib\yasmf-assets\gps-locate@2x.png \
 C:\Sandbox\webd265\Project4\platforms\android\assets\www\js\lib\yasmf-assets\list@2x.png \
